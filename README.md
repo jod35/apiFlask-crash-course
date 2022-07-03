@@ -1,5 +1,5 @@
 # APIFlask crash course
-This is code I wrote for a crash course on API flask.
+This is code I wrote for a crash course on [APIFlask](https://apiflask.com/).
 
 
 ## How to run project
